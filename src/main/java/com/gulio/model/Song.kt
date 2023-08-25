@@ -11,12 +11,12 @@ package com.gulio.model
  * @property likes Song likes
  */
 class Song(
-        var id: Int,
-        var name: String,
-        var artist: String,
-        var album: String,
-        var albumArt: String,
-        var likes: Int,
+    var id: Int,
+    var name: String,
+    var artist: String,
+    var album: String,
+    var albumArt: String,
+    var likes: Int,
 ) {
     override fun toString(): String {
         return "Song(id=$id, name='$name', artist='$artist', album='$album', likes=$likes, albumArt='$albumArt')"
