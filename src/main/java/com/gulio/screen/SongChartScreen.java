@@ -2,8 +2,8 @@ package com.gulio.screen;
 
 import com.gulio.model.Song;
 import com.gulio.model.YoutubeVideo;
-import com.gulio.resitory.YoutubeRepository;
-import com.gulio.resitory.YoutubeRepositoryImpl;
+import com.gulio.repository.YoutubeRepository;
+import com.gulio.repository.YoutubeRepositoryImpl;
 import me.friwi.jcefmaven.CefInitializationException;
 import me.friwi.jcefmaven.UnsupportedPlatformException;
 

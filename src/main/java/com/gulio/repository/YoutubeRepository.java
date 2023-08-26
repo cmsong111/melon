@@ -1,4 +1,4 @@
-package com.gulio.resitory;
+package com.gulio.repository;
 
 import com.gulio.model.YoutubeVideo;
 

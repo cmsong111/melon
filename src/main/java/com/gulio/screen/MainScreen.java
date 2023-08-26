@@ -1,7 +1,7 @@
 package com.gulio.screen;
 
-import com.gulio.resitory.MelonRepository;
-import com.gulio.resitory.MelonRepositoryImpl;
+import com.gulio.repository.MelonRepository;
+import com.gulio.repository.MelonRepositoryImpl;
 import me.friwi.jcefmaven.CefInitializationException;
 import me.friwi.jcefmaven.UnsupportedPlatformException;
 
